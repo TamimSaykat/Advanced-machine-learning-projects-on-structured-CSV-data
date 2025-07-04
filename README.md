@@ -97,12 +97,18 @@ Understanding how and why your machine learning models make predictions is criti
 
 ---
 
-## 📊 GitHub Stats (Dynamic & Animated)
+## 🌍 Real-World Applications & Impact
+
+These projects go beyond academic exercises. They demonstrate solutions that can be applied to:
+
+- 🏥 **Healthcare**: Predict patient risk levels from medical records  
+- 💰 **Finance**: Score credit risk and detect fraud using transaction history  
+- 🛍️ **E-commerce**: Recommend products or forecast sales  
+- 🌱 **Agriculture**: Predict crop yields from weather and soil data  
+- 🏢 **HR & Recruitment**: Screen candidates based on historical success metrics  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TamimSaykat&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TamimSaykat&show_icons=true&theme=react&count_private=true&hide_border=true&border_radius=5" alt="GitHub Stats">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Data to Decision GIF" width="60%">
 </p>
 
 ---
@@ -114,4 +120,3 @@ If you’re passionate about machine learning or want to collaborate on projects
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00cc66&lines=Thanks+for+visiting!;Star+this+repo+if+you+like+it+🌟" alt="Closing Typing SVG">
 </p>
-
