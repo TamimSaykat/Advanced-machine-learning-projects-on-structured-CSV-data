@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=0e75b6&lines=Welcome+to+Advanced+ML+Projects;End-to-End+Pipelines+in+Action;  Model+Explainability+with+SHAP+%26+LIME!" alt="Typing SVG Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=0e75b6&lines=Welcome+to+Advanced+ML+Projects;End-to-End+Pipelines+in+Action;Model+Explainability+with+SHAP+%26+LIME!" alt="Typing SVG Animation"/>
 </p>
 
 ---
