@@ -1,8 +1,3 @@
-<!-- 🖼️ Custom Machine Learning Banner -->
-<p align="center">
-  <img src="9c7ff941-795b-4109-aeba-77512390220e.png" alt="Machine Learning Banner" width="100%"/>
-</p>
-
 <h1 align="center">📊 Advanced Machine Learning Projects on CSV Data</h1>
 <h3 align="center">Structured Data · Real-World Use Cases · End-to-End Pipelines</h3>
 
@@ -39,9 +34,7 @@ These projects demonstrate the ability to turn raw data into valuable insights u
   <img src="https://img.shields.io/badge/Matplotlib-0076a8?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC2625?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFB300?style=for-the-badge&logo=catboost&logoColor=black"/>
+
 </p>
 
 ---
