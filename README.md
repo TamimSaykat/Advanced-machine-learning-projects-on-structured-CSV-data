@@ -56,15 +56,7 @@ These projects demonstrate the ability to turn raw data into valuable insights u
 
 ---
 
-## 📈 Example Use Cases
 
-- 🏥 Predicting hospital readmission rates
-- 🛒 Forecasting customer churn in retail
-- 🏡 House price prediction using regression
-- 🏦 Credit scoring and fraud detection
-- 🚌 Route optimization and travel time prediction
-
----
 
 ## 📬 Let's Connect
 
