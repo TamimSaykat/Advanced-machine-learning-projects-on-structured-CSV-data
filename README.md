@@ -98,8 +98,8 @@ Understanding how and why your machine learning models make predictions is criti
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVmNDk3NmYwYmQ0OWRiZDdiOGFlYzM3Mzk4YjA3MmM2MjBiMmUzZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" 
-       alt="ML Process Animation" width="75%">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" 
+       alt="ML Pipeline Flow" width="75%">
 </p>
 
 ---
