@@ -1,4 +1,4 @@
-![banner](https://miro.medium.com/v2/resize:fit:1400/format/webp/1*YGqg1BdFybw.png)
+
 <h1 align="center">📊 Advanced Machine Learning Projects on CSV Data</h1>
 <h3 align="center">Structured Data · Real-World Use Cases · End-to-End Pipelines</h3>
 
@@ -39,6 +39,5 @@ These projects demonstrate the ability to turn raw data into valuable insights u
 
 ---
 
-## 📂 Folder Structure
 
 
