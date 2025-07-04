@@ -100,6 +100,7 @@ Understanding how and why your machine learning models make predictions is criti
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Data to Decision GIF" width="60%">
 </p>
 
+
 ## 📬 Let's Connect
 
 If you’re passionate about machine learning or want to collaborate on projects, feel free to reach out!
