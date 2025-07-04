@@ -97,18 +97,9 @@ Understanding how and why your machine learning models make predictions is criti
 
 ---
 
-## 🌍 Real-World Applications & Impact
-
-These projects go beyond academic exercises. They demonstrate solutions that can be applied to:
-
-- 🏥 **Healthcare**: Predict patient risk levels from medical records  
-- 💰 **Finance**: Score credit risk and detect fraud using transaction history  
-- 🛍️ **E-commerce**: Recommend products or forecast sales  
-- 🌱 **Agriculture**: Predict crop yields from weather and soil data  
-- 🏢 **HR & Recruitment**: Screen candidates based on historical success metrics  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Data to Decision GIF" width="60%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVmNDk3NmYwYmQ0OWRiZDdiOGFlYzM3Mzk4YjA3MmM2MjBiMmUzZiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" 
+       alt="ML Process Animation" width="75%">
 </p>
 
 ---
