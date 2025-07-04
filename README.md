@@ -25,12 +25,14 @@
 ## 🧠 Overview
 
 This repository offers a curated collection of advanced machine learning projects focused on structured CSV data.  
-It demonstrates real-world applications and complete ML pipelines—from raw data ingestion, preprocessing, and feature engineering to model training, tuning, and evaluation.
-
-These projects showcase how to transform raw data into actionable insights using Python's machine learning ecosystem.
+It demonstrates real-world applications and complete ML pipelines—from raw data ingestion, preprocessing, and feature engineering to model training, tuning, deployment, and monitoring.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:900/format:webp/1*6EYu7cymZTV1r_K82ex9Ww.gif" width="80%" alt="ML Pipeline GIF">
+  <img class="w-full object-cover object-center h-full babybear:max-h-[400px] lazy-loaded" 
+       data-ghost-url="https://static.licdn.com/aero-v1/sc/h/921ynb2z53z33mhm3061qvjag" 
+       alt="No alternative text description for this image" 
+       aria-busy="false" 
+       src="https://media.licdn.com/dms/image/v2/D5622AQHaiTvw1rMkMg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1689412372559?e=2147483647&amp;v=beta&amp;t=rT4lzgEE1OcEFg8Mo92fn6uJP5d0dKs78MqZXsxYCAY">
 </p>
 
 ---
@@ -77,8 +79,6 @@ These projects showcase how to transform raw data into actionable insights using
 
 ## 🔍 Explainable AI (XAI) & Advanced Techniques
 
-Understanding how and why your machine learning models make predictions is critical for trust, fairness, and improvement. This section highlights the tools and methods used to explain and interpret model behavior.
-
 <p align="left">
   <img src="https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="SHAP"/>
   <img src="https://img.shields.io/badge/LIME-00599C?style=for-the-badge&logo=python&logoColor=white" alt="LIME"/>
@@ -89,21 +89,21 @@ Understanding how and why your machine learning models make predictions is criti
 
 ### Key Tools & Techniques
 
-- **SHAP (SHapley Additive exPlanations):** Quantifies feature contributions for individual predictions.  
-- **LIME (Local Interpretable Model-agnostic Explanations):** Provides local surrogate models to explain predictions.  
-- **ELI5:** A library to debug and explain ML classifiers and regressors.  
-- **InterpretML:** A Microsoft toolkit for interpretable machine learning models and explanations.  
-- **Partial Dependence Plots:** Visualize marginal effects of features on model output.
+- **SHAP (SHapley Additive exPlanations)**  
+- **LIME (Local Interpretable Model-agnostic Explanations)**  
+- **ELI5**  
+- **InterpretML**  
+- **Partial Dependence Plots (PDPs)**  
 
 ---
+
 <p align="center">
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Data to Decision GIF" width="60%">
 </p>
 
+---
 
 ## 📬 Let's Connect
-
-If you’re passionate about machine learning or want to collaborate on projects, feel free to reach out!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00cc66&lines=Thanks+for+visiting!;Star+this+repo+if+you+like+it+🌟" alt="Closing Typing SVG">
