@@ -98,9 +98,8 @@ Understanding how and why your machine learning models make predictions is criti
 ---
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*YGqg1BdFybw.png" alt="Machine Learning Pipeline Animation" width="75%">
+  <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" alt="Machine Learning Workflow Animation" width="75%">
 </p>
-
 ## 📬 Let's Connect
 
 If you’re passionate about machine learning or want to collaborate on projects, feel free to reach out!
