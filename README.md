@@ -97,9 +97,7 @@ It demonstrates real-world applications and complete ML pipelines—from raw dat
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Data to Decision GIF" width="60%">
-</p>
+
 
 ---
 
