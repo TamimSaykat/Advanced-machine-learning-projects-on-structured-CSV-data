@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.istockphoto.com/id/1273072739/vector/machine-learning-banner-logo-for-technology-ai-big-data-algorithm-neural-network-deep.jpg?s=170667a&w=0&k=20&c=Ts1g-ZmfulPB5yyd-MjhbGnp8O1OlktclyFFZRiZKjg=" alt="Machine Learning Banner" width="100%">
+</p>
+
 <h1 align="center">📊 Advanced Machine Learning Projects on CSV Data</h1>
 <h3 align="center">Structured Data · Real-World Use Cases · End-to-End Pipelines</h3>
 
@@ -34,7 +38,6 @@ These projects demonstrate the ability to turn raw data into valuable insights u
   <img src="https://img.shields.io/badge/Matplotlib-0076a8?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=python&logoColor=white"/>
-
 </p>
 
 ---
@@ -55,8 +58,6 @@ These projects demonstrate the ability to turn raw data into valuable insights u
 </p>
 
 ---
-
-
 
 ## 📬 Let's Connect
 
